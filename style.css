@@ -16,7 +16,7 @@ body {
     font-style: italic;
 }
 
-/* Animation for background gradient color
+/* Animation for background gradient color*/
 @keyframes bgColorChange {
     0% {
         background: linear-gradient(135deg, #4e54c8, #8f94fb);
@@ -27,12 +27,12 @@ body {
     100% {
         background: linear-gradient(135deg, #ff8a00, #da1b60);
     }
-} */
-/* online exam
+} 
+/* online exam*/
 #online{
 
     display: inline-block;
-} */
+} 
 
 
 
